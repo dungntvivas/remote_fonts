@@ -11,7 +11,7 @@ dependencies:
   crypto: ^3.0.2
   flutter:
     sdk: flutter
-  http: ^0.13.6
+  http: ^1.0.0
   path: ^1.8.2
 
 dev_dependencies:
